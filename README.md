@@ -5,7 +5,7 @@
 ```bash
 git clone https://github.com/cnc-summer/next-101.git
 cd next-101
-npm install
+npm install # or yarn install or pnpm install
 ```
 
 ## Develop
